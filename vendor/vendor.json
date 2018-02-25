@@ -15,10 +15,10 @@
 			"revisionTime": "2017-02-17T01:53:35Z"
 		},
 		{
-			"checksumSHA1": "8mzUiJrhQ0COz4r98YlDICpWqsw=",
+			"checksumSHA1": "S97KA7bbFepIS2ZFHr9ImA4uEGQ=",
 			"path": "github.com/buildkite/interpolate",
-			"revision": "3a807e47135c4139351425cae51d4bd485150282",
-			"revisionTime": "2017-11-14T09:02:18Z"
+			"revision": "c1c376f870d259871fcc9bf3bcfd4889b999ed1a",
+			"revisionTime": "2018-02-15T13:27:03Z"
 		},
 		{
 			"checksumSHA1": "bplZOqTp6JAbkn25zHEPIob25WI=",
@@ -49,6 +49,12 @@
 			"path": "github.com/googleapis/gax-go",
 			"revision": "da06d194a00e19ce00d9011a13931c3f6f6887c7",
 			"revisionTime": "2016-11-07T00:24:06Z"
+		},
+		{
+			"checksumSHA1": "mPbjVPD2enEey45bP4M83W2AxlY=",
+			"path": "github.com/hashicorp/terraform/dag",
+			"revision": "1d0f5fdac99ec9f1a8269aded78ce1da6f547fab",
+			"revisionTime": "2018-02-16T19:43:16Z"
 		},
 		{
 			"checksumSHA1": "RRbuqW6/i6m9ChhQDTVU7A2F9E8=",
